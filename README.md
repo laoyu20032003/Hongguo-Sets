@@ -63,3 +63,5 @@ python tools/export_hongguo_sets.py
 |---|---|
 | 季号（键） | 第几季，从 1 开始升序 |
 | series_id（值） | 该季的红果剧 id，19 位数字字符串 |
+
+![alt text](images/sets.jpg)
