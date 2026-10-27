@@ -64,4 +64,8 @@ python tools/export_hongguo_sets.py
 | 季号（键） | 第几季，从 1 开始升序 |
 | series_id（值） | 该季的红果剧 id，19 位数字字符串 |
 
+
+在线查看 [红果系列剧 20261027](https://laoyu20032003.github.io/index.html) 项目生成
+
+
 ![alt text](images/sets.jpg)
